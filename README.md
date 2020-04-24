@@ -1,0 +1,2 @@
+# bot
+Cérebro do BOT
